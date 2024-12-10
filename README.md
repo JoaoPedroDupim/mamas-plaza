@@ -9,17 +9,53 @@ Este projeto consiste no desenvolvimento de um fliperama denominado Mama's Plaza
 
 ## Jogos
 
+### Astroid
+Baseado no icônico jogo Asteroid, onde o jogador pilota uma nave espacial em um campo de asteroides, devendo destruir os corpos celestes enquanto evita colisões.
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="margin-right: 20px;">
+        <img src="public/asteroid_1.png" alt="Mama's Plaza" style="width: 100%; height: auto;">
+    </div>
+    <div>
+        <img src="public/asteroid_2.png" alt="Mama's Plaza" style="width: 100%; height: auto;">
+    </div>
+</div>
+
 ### Frogger
 Uma recriação do clássico arcade, onde o jogador controla um sapo que deve atravessar uma rua movimentada e um rio perigoso, evitando obstáculos para chegar ao seu destino em segurança.
 
-### Astroid
-Baseado no icônico jogo Asteroid, onde o jogador pilota uma nave espacial em um campo de asteroides, devendo destruir os corpos celestes enquanto evita colisões.
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="margin-right: 20px;">
+        <img src="public/frogger_1.png" alt="Mama's Plaza" style="width: 100%; height: auto;">
+    </div>
+    <div>
+        <img src="public/frogger_2.png" alt="Mama's Plaza" style="width: 100%; height: auto;">
+    </div>
+</div>
 
 ### Pikomon
 Uma versão criativa inspirada na franquia Pokémon, desenvolvendo uma Pokédex interativa que permite ao jogador explorar uma coleção de Pokémons.
 
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="margin-right: 20px;">
+        <img src="public/pikomon_1.png" alt="Mama's Plaza" style="width: 100%; height: auto;">
+    </div>
+    <div>
+        <img src="public/pikomon_2.png" alt="Mama's Plaza" style="width: 100%; height: auto;">
+    </div>
+</div>
+
 ### Pong
 Recria o clássico jogo de ping-pong, considerado um dos primeiros jogos eletrônicos, onde dois jogadores competem em uma partida de tênis de mesa virtual.
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="margin-right: 20px;">
+        <img src="public/pong_1.png" alt="Mama's Plaza" style="width: 100%; height: auto;">
+    </div>
+    <div>
+        <img src="public/pong_2.png" alt="Mama's Plaza" style="width: 100%; height: auto;">
+    </div>
+</div>
 
 ## Desenvolvimento
 
