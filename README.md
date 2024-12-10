@@ -12,11 +12,11 @@ Este projeto consiste no desenvolvimento de um fliperama denominado Mama's Plaza
 ### Astroid
 Baseado no icônico jogo Asteroid, onde o jogador pilota uma nave espacial em um campo de asteroides, devendo destruir os corpos celestes enquanto evita colisões.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="margin: 10px;">
+<div style="text-align: center;">
+    <div style="display: inline-block; margin: 10px;">
         <img src="public/asteroid_1.png" alt="Astroid 1" style="width: 300px; height: auto;">
     </div>
-    <div style="margin: 10px;">
+    <div style="display: inline-block; margin: 10px;">
         <img src="public/asteroid_2.png" alt="Astroid 2" style="width: 300px; height: auto;">
     </div>
 </div>
@@ -24,8 +24,8 @@ Baseado no icônico jogo Asteroid, onde o jogador pilota uma nave espacial em um
 ### Frogger
 Uma recriação do clássico arcade, onde o jogador controla um sapo que deve atravessar uma rua movimentada e um rio perigoso, evitando obstáculos para chegar ao seu destino em segurança.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="margin: 10px;">
+<div style="text-align: center;">
+    <div style="display: inline-block; margin: 10px;">
         <img src="public/frogger_1.png" alt="Astroid 1" style="width: 300px; height: auto;">
     </div>
     <div style="margin: 10px;">
@@ -36,8 +36,8 @@ Uma recriação do clássico arcade, onde o jogador controla um sapo que deve at
 ### Pikomon
 Uma versão criativa inspirada na franquia Pokémon, desenvolvendo uma Pokédex interativa que permite ao jogador explorar uma coleção de Pokémons.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="margin: 10px;">
+<div style="text-align: center;">
+    <div style="display: inline-block; margin: 10px;">
         <img src="public/pikomon_1.png" alt="Astroid 1" style="width: 300px; height: auto;">
     </div>
     <div style="margin: 10px;">
@@ -48,8 +48,8 @@ Uma versão criativa inspirada na franquia Pokémon, desenvolvendo uma Pokédex 
 ### Pong
 Recria o clássico jogo de ping-pong, considerado um dos primeiros jogos eletrônicos, onde dois jogadores competem em uma partida de tênis de mesa virtual.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="margin: 10px;">
+<div style="text-align: center;">
+    <div style="display: inline-block; margin: 10px;">
         <img src="public/pong_1.png" alt="Astroid 1" style="width: 300px; height: auto;">
     </div>
     <div style="margin: 10px;">
