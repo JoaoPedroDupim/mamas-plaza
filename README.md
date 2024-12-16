@@ -75,6 +75,10 @@ Para executar este projeto, é necessário ter o Processing instalado. Processin
 - [@wfabi0](https://github.com/wfabi0) - Fábio Milagres
 - [@JoaoPedroDupim](https://github.com/JoaoPedroDupim) - João Pedro Dupim
 
+## Download
+
+Você pode baixar a versão mais recente do Mama's Plaza: Jogos Retrô na seção de [releases](https://github.com/wfabi0/mamas-plaza/releases/latest).
+
 ## Referências
 
 - ATARI, INC. [Atari](https://www.atari.com). Acesso em: 1 set. 2024.
